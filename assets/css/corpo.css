@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    /* border: .1rem solid blue; */
+    display: flex;
+    flex: 1;
+}
+
+
+
+main {
+    /* border: .1rem solid purple; */
+    display: flex;
+    flex: 1;
+    padding: .5rem;
+}
