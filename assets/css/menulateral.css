@@ -24,7 +24,7 @@ li{
 .opcao:hover{
     background-color: #ccc;
     color: black;
-    box-shadow: .3rem .3rem .3rem 0.01rem #ddd;
+    box-shadow: 0.3rem 0.3rem 0.3rem 0.01rem #ddd;
     border: .1rem solid #bdbdbd;
 }
 

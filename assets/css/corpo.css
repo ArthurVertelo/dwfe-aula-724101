@@ -10,9 +10,12 @@ section {
     flex: 1;
 }
 
-main {
+.container {
     /* border: .1rem solid purple; */
     display: flex;
     flex: 1;
-    padding: .5rem;
+    padding: 1rem;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    justify-content: left;
 }
