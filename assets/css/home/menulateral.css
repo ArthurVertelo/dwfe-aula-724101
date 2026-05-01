@@ -50,3 +50,7 @@ li{
 .rotulo{
     flex: 1;
 }
+
+.menu-oculto{
+    display: none;
+}
